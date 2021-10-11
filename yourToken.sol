@@ -1,6 +1,6 @@
 pragma solidity ^0.4.21;
 
-
+//We understand the code and concept of money transactions in solidity. Code has been taken from https://www.freecodecamp.org/news/how-to-write-and-deploy-your-first-smart-contract-341d5e2ffb35/
 contract yourToken {
 
     //By using the keyword public, this variable is readable from the outside of this contract
